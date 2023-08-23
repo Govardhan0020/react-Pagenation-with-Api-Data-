@@ -71,7 +71,7 @@ const pagehandler = PageNumber => {
 }
     return(
 <>
-<h3 className="apiData">API DATA  page one</h3>
+<h3 className="apiData">API DATA  in Pagenation </h3>
    
    <h4 > {error && " Page not found "} </h4>
 
